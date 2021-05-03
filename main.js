@@ -211,4 +211,4 @@ bot.on('messageReactionAdd', (reaction, user) => {
     }
 });
 
-bot.login('Nzc1ODMyNjcwNDk2MjI3MzQw.X6sEeg.hazlWKzd-AaMq4Ig717ew3BAzC0');
+bot.login('token') //replace "token" with your token
