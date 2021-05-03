@@ -1,0 +1,9 @@
+Commands:
+
+help / commands             -             opens up the commands list
+ping             -             does exactly what you think
+joe             -             he knows who joe is
+messages             -             see how many messages you have send in this server
+purge / clear <amount>             -             clears a certain amount of messages
+say             -             i can says whatvers you want me to say
+info             -             sends some info about you
